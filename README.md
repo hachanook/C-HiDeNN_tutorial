@@ -1,1 +1,3 @@
 # C-HiDeNN_tutorial
+
+(c) This code was filed as a provisional patent application [Serial #: 63/407,444]. This computer code is based on the recent publication "Convolution Hierarchical Deep-learning Neural Network (C-HiDeNN) with Graphics Processing Unit (GPU) acceleration" written by Chanwook Park et al., published in Computational Mechanics journal in 2023 [link: https://link.springer.com/article/10.1007/s00466-023-02329-4]. This code is being used with permission from the original authors and is intended solely for educational and research purposes. Any reproduction, modification, distribution, or commercial use of this code, or any portion of it, is strictly prohibited without prior written permission from the original authors.
